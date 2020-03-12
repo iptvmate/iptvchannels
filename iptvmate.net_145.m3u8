@@ -1,0 +1,305 @@
+#EXTM3U
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/266" tvg-id="537361b870a93978338f940e5506ac6f" tvg-chno="1",Rai 1
+https://ch.iptvmate.net/3302a9cba1764364048f482c4afbfc61.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/279" tvg-id="3892b84681ead89907bf68fd6a3d8334" tvg-chno="2",Rai 2
+https://ch.iptvmate.net/8bd1427a400194d99bb35ca511fbcee7.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/216" tvg-id="00c55113c27060e15529760411d9b4ad" tvg-chno="3",Rai 3 TGR Marche
+https://ch.iptvmate.net/fe2fca6f60125745a82b38c27b13ebad.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/276" tvg-id="eb784243648b65240f4eba7d0ee91b39" tvg-chno="4",Rete4
+https://ch.iptvmate.net/f42c455328e30c03a8f492f52419d8b8.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/283" tvg-id="189a9b48389e5778b3695b147091a2f0" tvg-chno="5",Canale5
+https://ch.iptvmate.net/f4e0e2177ac0040b7e8621b232cacabe.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/291" tvg-id="51970853a6729fd1ad5c69d7bf55e8e3" tvg-chno="6",Italia1
+https://ch.iptvmate.net/8a4ef93efc04d8623352d17a701faace.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/273" tvg-id="de36bebf8755b855a4ac22aec9ba639c" tvg-chno="7",LA7
+https://ch.iptvmate.net/d6258b2fd20b88564509539def2f2a20.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/280" tvg-id="0e0e7447e5cb14e82d84f963b37e8e4a" tvg-chno="8",TV8
+https://ch.iptvmate.net/08fc07c40d19dacbbbbd2dec65dbff93.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/284" tvg-id="6a88b748cbfaaf69c5603359b8e097a8" tvg-chno="9",NOVE
+https://ch.iptvmate.net/0eec26471e632ca532acbbb4143e5748.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/302" tvg-id="2b641ed4c7eead59c0e6e6779b758747" tvg-chno="10",Tv Centro Marche
+https://ch.iptvmate.net/8871e87c6976c5da233af6c289323abb.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/336" tvg-id="0975e5efc22a12f455c6d6c8039dca23" tvg-chno="13",7 GOLD MARCHE
+https://ch.iptvmate.net/1fb07e69a8e11dec9642b77844d7dd74.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/227" tvg-id="c9032e1964b005a89aa5b2a4dc68dfb2" tvg-chno="16",TELE 2000
+https://ch.iptvmate.net/f90cdafc651f7b74749547bcea26332c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/317" tvg-id="758888e2d526ed491d762579ee6169f5" tvg-chno="18",RTM
+https://ch.iptvmate.net/c64448e39e8d521042c6cfbf1a555f19.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/201" tvg-id="46c0580a025f2c98e7798eacfc93bbd4" tvg-chno="20",20 Mediaset
+https://ch.iptvmate.net/f30187e04f9dc9b83d091d9b7108ef8f.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/343" tvg-id="4d3110f8ac9ccbc2d7e7b1c49a51e35b" tvg-chno="21",Rai 4
+https://ch.iptvmate.net/e2103e416bcaa586a24e88461197d1dc.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/296" tvg-id="62945f513c97c90d1dcfd54ac85b9d0b" tvg-chno="22",Iris
+https://ch.iptvmate.net/82b39f75a922351601ed834732fb6a55.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/309" tvg-id="68a0ded8bdbf6a4426b429a696c63ce1" tvg-chno="23",Rai 5
+https://ch.iptvmate.net/e26138ac9c0f7849028b1a312b96f59b.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/224" tvg-id="32984c9884043d0ded28dd8f0c5318fb" tvg-chno="24",Rai Movie
+https://ch.iptvmate.net/fdebc139bd20e8acefbb6da700f33a67.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/305" tvg-id="0bb231558ef4423df6a1f20e51b00d6c" tvg-chno="25",Rai Premium
+https://ch.iptvmate.net/b68cd83d4e96de1ab2e730ce091a1dcf.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/214" tvg-id="35152b930fcb965832e1a499f84dc4a2" tvg-chno="26",cielo
+https://ch.iptvmate.net/1d951495b0799f87e0990519abb04601.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/225" tvg-id="66df7398064f60c2f499a0e478e3ca94" tvg-chno="27",Paramount Network
+https://ch.iptvmate.net/3aa2fc40867f7e06cf6f1572f81228eb.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/314" tvg-id="81c5bfe0b9dd0bd744490b0b14657ea7" tvg-chno="28",TV2000
+https://ch.iptvmate.net/795977886ec655ffe86f980f8fd08571.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/339" tvg-id="8b2df97360b36a1c7f86f3c36a418ba9" tvg-chno="29",LA7d
+https://ch.iptvmate.net/5a82131f8bc9bf47aaa9b7ecd50670ad.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/267" tvg-id="6297063947e4bf4c976454c18b36cdc4" tvg-chno="30",La 5
+https://ch.iptvmate.net/89c436a2f6397fd63ef05341c976218a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/236" tvg-id="7d30aba1323513dd0e8bcba08703f650" tvg-chno="31",Real Time
+https://ch.iptvmate.net/5c3930005c383791f8d2a136cd842dff.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/318" tvg-id="cf5157e3adb5b4543ad8e1b47952a1c0" tvg-chno="32",QVC
+https://ch.iptvmate.net/756f73f8ea6e055f2641816767cdabd3.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/232" tvg-id="0e75a29fa984242dcf57d7d1522a174b" tvg-chno="33",Food Network
+https://ch.iptvmate.net/00d4e0689c3d48c2a8fbbb5d4ff032f7.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/239" tvg-id="7eb6bea49f63fafce31f9f746409016d" tvg-chno="34",Cine34
+https://ch.iptvmate.net/9eeda641cbbb7919992c80cb8b68edd4.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/356" tvg-id="b662a5ff731087423136c0e6e237f10f" tvg-chno="35",Focus
+https://ch.iptvmate.net/3dc5b9c8f8b16d8c32d3897b11e9291b.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/220" tvg-id="fe31c89464e46c6056d69f3909399d0f" tvg-chno="36",RTL 102.5
+https://ch.iptvmate.net/3606d3a6513cf125477bb27c3c7fa68a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/315" tvg-id="2ef64f6152b271ad9b3e460cd9a9712e" tvg-chno="37",HSE24
+https://ch.iptvmate.net/7691db0b905a8e34c00ebfa1f5f2d6b0.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/258" tvg-id="8066113296d555d3ffc9364c066fdc46" tvg-chno="38",GIALLO
+https://ch.iptvmate.net/12e5c6184c0ecce8fdef89cebd8ec8d5.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/230" tvg-id="5fa7e19efb9c34f0574d495c4bdcd413" tvg-chno="39",TOPcrime
+https://ch.iptvmate.net/b62fe00fbf6169445014a12cb5127c0c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/196" tvg-id="118922033eca37a89cd531058572fe01" tvg-chno="40",Boing
+https://ch.iptvmate.net/3882cb40bbf23509c0c3514c2afe4eb2.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/301" tvg-id="f42f425303a4b5bbddb7d0746ce24702" tvg-chno="41",K2
+https://ch.iptvmate.net/84c1ce4c419db5e64a605fbe67fe6f98.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/242" tvg-id="3462baa5220be2f8c7f22d319177f864" tvg-chno="42",Rai Gulp
+https://ch.iptvmate.net/387eb1cdd5f222923a1e9b95f392a9de.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/234" tvg-id="3f2c4ba02e0c4f86a35495f263b04f2a" tvg-chno="43",Rai YoYo
+https://ch.iptvmate.net/398030ac0665d02efa92e5afed9e5776.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/212" tvg-id="6da98d92f86d1653f855886bcce7ff02" tvg-chno="44",frisbee
+https://ch.iptvmate.net/297b649b0b4c40cdc0b6700eb4ae0beb.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/337" tvg-id="4bedd0f0cbc67239de49452cb4dee9c8" tvg-chno="45",Boing Plus
+https://ch.iptvmate.net/c2da392713bbb78387c932f490c4e697.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/210" tvg-id="b662a0918fe6adb9a576c757d13c6b1b" tvg-chno="46",Cartoonito
+https://ch.iptvmate.net/1dc04e0c22a9758620dba23b6d94b4ff.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/271" tvg-id="0f99f43e774e84138b4200592a9dfb6f" tvg-chno="47",Super!
+https://ch.iptvmate.net/4abac2c29d91cff5c6439bb9bac3841c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/290" tvg-id="08a4f3cc5818278b009855155e9d5d8f" tvg-chno="48",Rai News 24
+https://ch.iptvmate.net/b297dfdd0c3f96b0c80e8613436aa9b8.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/231" tvg-id="0327591fa3e6c6e51d85ec2e29cdf70d" tvg-chno="49",Spike
+https://ch.iptvmate.net/e80290e76c3d893b2653b0920da6cc3a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/208" tvg-id="6b6bea102a7c4231cfd5ac3ed01a0a1c" tvg-chno="50",Sky TG24
+https://ch.iptvmate.net/325fb2cbe8ebe032beb9f4950bcc21cf.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/269" tvg-id="d2884452d2334e1298e0d2e23c9efa73" tvg-chno="51",TGCOM24
+https://ch.iptvmate.net/bb38046b8a7993c7a11d8988aff8766d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/243" tvg-id="22be4d2694d8d182a235c8e4f785c3fc" tvg-chno="52",DMAX
+https://ch.iptvmate.net/7fa961373806abd65d195d9fc0cb6b7a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/313" tvg-id="d27f31e0b550c0901dcc2778cdd8a13c" tvg-chno="53",ITALIA 53
+https://ch.iptvmate.net/a0a6064a0dd5d7c7a78a7f059b7d3e90.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/300" tvg-id="9c97fdd2bc59ae0303af733aa60fbbbd" tvg-chno="54",Rai Storia
+https://ch.iptvmate.net/77c7536516d618aaa7e7f4a7b963b91c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/229" tvg-id="c08e381cd53bff425035863376b8cebe" tvg-chno="55",Mediaset Extra
+https://ch.iptvmate.net/e0bd4482c9c1e33e5704318e03ca0567.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/293" tvg-id="269efe4e00bc1f63dbc660b11e396c42" tvg-chno="56",HGTV - Home&Garden
+https://ch.iptvmate.net/60731ba6b8b2b783063e1b20dce1212c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/218" tvg-id="3e638f13351af06fe3c3abc7c34a340a" tvg-chno="58",Rai Sport
+https://ch.iptvmate.net/ca53b54b63d3ed6e0ae5283e3dbf72da.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/221" tvg-id="68293a95ccf2a83ab28ff7244bb2660f" tvg-chno="59",Motor Trend
+https://ch.iptvmate.net/8b63879583df65c0b864ecc230a0234a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/320" tvg-id="fc25dfe4bf710e0c47edd796331809db" tvg-chno="61",LIFE 120 CHANNEL
+https://ch.iptvmate.net/aae5c5037876be3d02de88af0454754c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/289" tvg-id="1a85cc4c47aa3b2efb07f1bac748fea4" tvg-chno="62",DONNA SPORT TV
+https://ch.iptvmate.net/9da8fe0397bbe53c83d2f753d20cdefc.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/308" tvg-id="fb7c24d868b9640b7808380cc36ea1ec" tvg-chno="63",Zelig Sport
+https://ch.iptvmate.net/36813736cc33cd515e4a9feef8e8e6e6.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/350" tvg-id="0edf84fd0caa42aa2ab839cfff2e85c0" tvg-chno="64",SUPERTENNIS
+https://ch.iptvmate.net/1f87e9a8888d11d3e681e2f1b861be30.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/286" tvg-id="b7e3f548ba9e0d97fc43e8b9c021d4fd" tvg-chno="65",CANALE 65
+https://ch.iptvmate.net/f5d66b7f26a8e8721facb32e5da36f80.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/209" tvg-id="0ef7aafddc20acfaa1ab359eba4ed487" tvg-chno="67",VH1
+https://ch.iptvmate.net/836d717959c93d80cb3d113fae4bc77e.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/321" tvg-id="eb5811652b20446e637d788f2d5ba8a7" tvg-chno="68",BOM Channel
+https://ch.iptvmate.net/04b8603c54418dc10db674a2d5d23f72.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/254" tvg-id="5a19042d608a3e3677a5912c6aa00323" tvg-chno="69",Deejay TV
+https://ch.iptvmate.net/b881c3dd020657dece747d90702ee063.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/277" tvg-id="406320441bfdc850f874574e1048cdd6" tvg-chno="70",RadioItalia TV
+https://ch.iptvmate.net/14c611b54e3cb42823f384cc40c95687.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/353" tvg-id="fa4680fed2fa6c1ef6d81efce58cd2ca" tvg-chno="76",LA 9
+https://ch.iptvmate.net/7bf5712a27713ddea4abd657b3b19967.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/253" tvg-id="373c522c1869b2e20b86daa81a89bfca" tvg-chno="77",CANALE 77
+https://ch.iptvmate.net/fa639445cd1169aa5af791ad4476e25f.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/255" tvg-id="fc4f3eaed9323d3efd3fd420349af2f9" tvg-chno="79",VERA TV
+https://ch.iptvmate.net/ad923f20810e095cc3a43cc2422664f9.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/307" tvg-id="1cbbfed7af830fa284f5818d72acbbad" tvg-chno="80",Tele A
+https://ch.iptvmate.net/87440607e010cc07702ba92892e68b44.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/278" tvg-id="be0437c501dcdb3bd2cf499418dda985" tvg-chno="81",LA 8
+https://ch.iptvmate.net/d6c88de0e3ac5b33a9d303a9cdeb6930.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/327" tvg-id="93bc55e8c5b23a3c8f57793db10d88d7" tvg-chno="83",CANALE ITALIA 83
+https://ch.iptvmate.net/469e9a850861caf8f53441d13b75dd7e.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/352" tvg-id="6127127e7d14f7c353fdd327f5e40bf3" tvg-chno="84",CANALE ITALIA 84
+https://ch.iptvmate.net/6856f6af78383f18ecdb0a55e1b32e79.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/272" tvg-id="b83098bf2364aaef0965b33cd9c02fca" tvg-chno="89",EMME  TV
+https://ch.iptvmate.net/4ccf8d79a77c456e644e71350dc1bcba.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/291" tvg-id="71baf7cd11129a2da65f45a3b37fdb3a" tvg-chno="106",Italia1
+https://ch.iptvmate.net/da28fe18fb18984c007f68d3976e08b5.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/273" tvg-id="904ab05cb6233c53a65939eacbb6f191" tvg-chno="107",LA7
+https://ch.iptvmate.net/d727b985971c8cc85606c0d939902832.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/280" tvg-id="c05f53c790770502a836233fb926ac37" tvg-chno="108",TV8
+https://ch.iptvmate.net/74ef0bc2e7a82ca777a96f3b8869ed34.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/348" tvg-id="994919fa35660c2a41285814cb70dff0" tvg-chno="110",TVCM 2
+https://ch.iptvmate.net/567c92d398800cc66b9d4889993e5cc5.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/238" tvg-id="825361240cfdbb671376fe26081ea71f" tvg-chno="114",SKYLINE RADIO & SOUL
+https://ch.iptvmate.net/7175f4f0408c361093476d4d0da47d52.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/201" tvg-id="0473b817a4d2064adbadb02ebfab8755" tvg-chno="120",20 Mediaset
+https://ch.iptvmate.net/caef05f7a683d78a9e2163c825afcd91.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/333" tvg-id="55baf86e13a9c04e18a0373dbfb939d9" tvg-chno="121",ITALIA 121
+https://ch.iptvmate.net/bb0195bb4f55b8de95ea5fef03160e0d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/199" tvg-id="26d55209f179a8abf9f8275866141ef4" tvg-chno="123",Italia Channel
+https://ch.iptvmate.net/aad9741d402ab3a00704a1d4c962b270.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/312" tvg-id="950840de9430727de7f6e400992cf1cf" tvg-chno="124",ARTE ITALIA 124
+https://ch.iptvmate.net/cd184e5ba596fa671abc5046c685892b.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/265" tvg-id="dbe5b9370c7ec8aa622a3bed3df68584" tvg-chno="125",ARTE ITALIA 125
+https://ch.iptvmate.net/15d6049dca5cf5261b3905f22d6ee11d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/263" tvg-id="3f34f0b6637043191961691d34e9da61" tvg-chno="126",ITALIA 126
+https://ch.iptvmate.net/10bb1afe3a92594dda03e669ec9c749d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/257" tvg-id="8da3d5b009bd4e3ffc5362b7c7dd227c" tvg-chno="127",ITALIA 127
+https://ch.iptvmate.net/38071d89a7debcfa3e934066689c9898.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/357" tvg-id="d2aeafff949d9b9d6a6c34c01d9dea30" tvg-chno="128",GOLD TV ITALIA
+https://ch.iptvmate.net/6fa516a025901755c6d0216a4147d471.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/349" tvg-id="9ec4c6fcec2e5aef2b65fb1645217327" tvg-chno="129",LA 4 ITALIA
+https://ch.iptvmate.net/de61ada27fc21b10eb7002335c58ffd7.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/215" tvg-id="17a24413beff3b275741321917caa285" tvg-chno="130",CHANNEL 24
+https://ch.iptvmate.net/91203566e4f0d2e1f672730eb583bc66.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/237" tvg-id="4a858ea2fe2603625a1247ccec826657" tvg-chno="131",RETE ITALIA
+https://ch.iptvmate.net/0db12e61a52d3e8be21188a1d4aacb78.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/310" tvg-id="63582a591bbe66cf998f6999d8453a5c" tvg-chno="132",LINEAGEM
+https://ch.iptvmate.net/79e2a446a4d1bfc74f77132ec736bd84.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/240" tvg-id="1df0e02410139973c2fe74a604bcd846" tvg-chno="133",Juwelo
+https://ch.iptvmate.net/c75ce79f8f140e02d861ebb84abb533e.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/205" tvg-id="fa1a930e40de9a296e9386f2fc02f9c9" tvg-chno="134",ITALIA 134
+https://ch.iptvmate.net/91faf3e709f74471e8420148534bc94c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/213" tvg-id="63f3ac123559d924227249b46261803f" tvg-chno="135",ITALIA 135
+https://ch.iptvmate.net/dd44f45cdbf812dfd07d1b73c7fc524d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/324" tvg-id="440cd56664a76fb373b6539fd4f93f03" tvg-chno="136",ITALIA 136
+https://ch.iptvmate.net/35a32af8f3df6315341768d1accf3451.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/325" tvg-id="256ca8e746839835d5cadf015a4fdda2" tvg-chno="137",HSE24 DONNA
+https://ch.iptvmate.net/8480b4ee6e4e0c5ee357c2d3311476a5.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/268" tvg-id="2890e73bf64d186126e78ba4a745471e" tvg-chno="138",AIR ITALIA
+https://ch.iptvmate.net/9d6fe5aa5e71a365689312c7441af779.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/204" tvg-id="6f9b4d0e022022b4124ee747dc948618" tvg-chno="139",DELUXE_1
+https://ch.iptvmate.net/b0c700518f379aee88d0a53b7586ccba.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/223" tvg-id="d0602f98023ee72aa64dbfaafdf23ed1" tvg-chno="140",LINEA ITALIA
+https://ch.iptvmate.net/89177395e56d519055d46bf7e8e19b1b.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/298" tvg-id="a3b80ad2d3e0cca8fd01de843880710f" tvg-chno="141",ITALIA 141
+https://ch.iptvmate.net/d493ff934aa0798efab7cd9e8ae19b06.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/287" tvg-id="cc1d73490a4d7f8227c4b5c41c76fbdc" tvg-chno="142",ITALIA 142
+https://ch.iptvmate.net/78d139ba32a7536521bea75525d998e2.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/341" tvg-id="f42465f6180e575ceb3712a656a9319a" tvg-chno="144",ORLER TV
+https://ch.iptvmate.net/1c8c0dfa3867363cf7a1f09ba63c080a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/354" tvg-id="4e6603ffbf62aff575592dafc7eb0575" tvg-chno="146",Rai Scuola
+https://ch.iptvmate.net/7526d034dd604918ccd090221416b8d2.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/344" tvg-id="1d0443f8e7d9fbd702257db9ab9ca867" tvg-chno="147",FIRE TV
+https://ch.iptvmate.net/f568ed3347bee000ade8f857746540ea.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/323" tvg-id="60eeb9e6ceec24d046294bd24ebd2858" tvg-chno="150",ITALIA 150
+https://ch.iptvmate.net/ecd78bf74cdc3d21a0ed5757b0aad7b0.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/303" tvg-id="8d3c31547addc4c97bfc9eb2d5fc971a" tvg-chno="152",MONDO CALCIO
+https://ch.iptvmate.net/40d6c852b14f1f2d064ba2075ac639fb.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/217" tvg-id="c9375d93522421e7a426f5d8a8a4e5c7" tvg-chno="156",ITALIA 156
+https://ch.iptvmate.net/01fde6dc66c397b213d16a2bc1ecdf6a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/292" tvg-id="0b2c0ece64ad32575d761809d21fc0c8" tvg-chno="158",ITALIA TV 3
+https://ch.iptvmate.net/23a4850ba73f6d2cce794cdaa1291f54.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/261" tvg-id="6a92d4b54d1afee13f06186c91006a85" tvg-chno="159",ITALIA 159
+https://ch.iptvmate.net/d3447bb27f838978e4995d93b00a2a31.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/328" tvg-id="8f858fe910e14de4deff82941856f920" tvg-chno="160",ITALIA 160
+https://ch.iptvmate.net/9f94022308a91235f651a034de3d8d4f.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/228" tvg-id="f1d1a2197b5a80eeccaa2ce230ad4042" tvg-chno="161",CANTANDO BALLANDO
+https://ch.iptvmate.net/47be9e62d6dfeb87d4f56adf18bc9f6d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/251" tvg-id="554ed2aac91e0783058ea2b800ef323c" tvg-chno="162",CANALE 162
+https://ch.iptvmate.net/f9e323d43ce4773430119add843b3459.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/274" tvg-id="5b5167c170d99679e51fa4e484408e52" tvg-chno="163",DONNASHOPPING
+https://ch.iptvmate.net/94d09052474c6d7c4976cdf5843d17ee.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/198" tvg-id="651bf1039a25660e55caeedddaec321a" tvg-chno="165",CANALE 165
+https://ch.iptvmate.net/c40d3efc86c3b1aeaed182e902ad8612.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/259" tvg-id="5e787933b0854c3a42ff249f5fa15ca8" tvg-chno="166",Mediatext.it
+https://ch.iptvmate.net/419235591c791ee76bec670b18b12f15.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/342" tvg-id="51d2fcf686027c4a78e8a0a6d5fecc74" tvg-chno="168",ARTE E MODA
+https://ch.iptvmate.net/8de4f35e342c81ed9d3ea8497b219a03.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/304" tvg-id="283903d555a0f179aaf261cdb13794ab" tvg-chno="179",ITALIA TV 2
+https://ch.iptvmate.net/02ec162aba5562dccc9d46308a536257.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/197" tvg-id="e576ac83573c64310dd809aec983c229" tvg-chno="210",Arancia Television
+https://ch.iptvmate.net/81d1bc98d4c093e6d37c39c592bc22e8.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/288" tvg-id="dff3074c3e42faaa4e45a248af1b5407" tvg-chno="211",fM Tv
+https://ch.iptvmate.net/194e71af3493eae58bf346c1d959212a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/275" tvg-id="73c9bb4209840394f788e9a405ec02d7" tvg-chno="216",VOCE CRISTIANA
+https://ch.iptvmate.net/eb79bbccca2e7c320c9df3e966b232c5.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/226" tvg-id="2477e51848c5dda6bb2741de0a02a6eb" tvg-chno="221",ALICE
+https://ch.iptvmate.net/eba895520b6efb19c2e1d36c4d4f4764.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/331" tvg-id="2bd71aeee91ef36035298f98554851f6" tvg-chno="222",MARCOPOLO
+https://ch.iptvmate.net/05d24ac745ae30dbcce0d968c7133937.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/219" tvg-id="f84d9d944edaf4a6a5d6c74c2e60117c" tvg-chno="223",CASEDESIGNSTILI
+https://ch.iptvmate.net/8fed8edb34e2d22032afa46390a70562.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/206" tvg-id="5a829c8ed6bc7fb4657dd72f0b5afc6a" tvg-chno="224",PopEconomy
+https://ch.iptvmate.net/b22f11fe298311b1e84b54bb6ee7431e.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/222" tvg-id="cc19141735aa8ef08b68b712cc1ac306" tvg-chno="230",ILIKE.TV
+https://ch.iptvmate.net/43bf065c36634452c1e30175487fa051.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/249" tvg-id="fbd284aad40b5dbc842ba554613e262e" tvg-chno="232",CANALE 232
+https://ch.iptvmate.net/155d6b46fbb08e9dfbc3a5804427f0b7.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/246" tvg-id="e2e7b1a89414cf3f04bdb7829b6e3a4a" tvg-chno="235",RAINBOW
+https://ch.iptvmate.net/d3fde7623809706016195b134be8dab5.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/285" tvg-id="bf69d748cd2f1462b90e118594ee03fe" tvg-chno="236",ITALIA TV 1
+https://ch.iptvmate.net/bf2105a673913064df8863be5d100fda.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/202" tvg-id="bb0eae8c3fa20c8f2a0a974a28a3e67b" tvg-chno="237",HSE24 BEAUTY
+https://ch.iptvmate.net/26b46eb526a2df68e319cc1e4e3bc3c4.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/200" tvg-id="bcb9f88919b85d0ea64cd0c0796afebb" tvg-chno="248",SFERA TV
+https://ch.iptvmate.net/60d5e7701fd9243e00b767d0a52b933a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/270" tvg-id="abe1e8bd09f3c3b4cf23dafdad299762" tvg-chno="251",Pianeta Tv
+https://ch.iptvmate.net/f8e40a2b37abe584620e59ea1cf70117.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/233" tvg-id="fa14bb1f1dde18756c2d0fcd2a4b3308" tvg-chno="258",RADIOFRECCIA
+https://ch.iptvmate.net/d461394ba37d958c9d1faf4a36200a25.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/282" tvg-id="596d62c83e0a3fdca784f7713421fa78" tvg-chno="259",CANALE 259
+https://ch.iptvmate.net/420c35909b96b59eb00192d08e167e2e.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/332" tvg-id="3d7fe36e0817b9b410e589a03108323a" tvg-chno="264",RADIO CUSANO TV ITALIA
+https://ch.iptvmate.net/5eea18bb4bb63d0a4fc752c517c17e3d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/209" tvg-id="84fa0c918206ef2e8eac1e5c94d7ea9e" tvg-chno="267",VH1
+https://ch.iptvmate.net/a902b3ad980606c79825a3d310ded748.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/280" tvg-id="be4c37cb836d26d33a67ea5062a3b862" tvg-chno="508",TV8
+https://ch.iptvmate.net/0cad638a4b8054033582908dcf488862.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/201" tvg-id="e8ef1f55be30b2bbc54d49dbd48acb56" tvg-chno="520",20 Mediaset
+https://ch.iptvmate.net/3eeecaf8b70d78e2c90bad1145d56f33.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/345" tvg-id="ddce6ef8129985b3e1f7361419c4b95e" tvg-chno="537",HSE24 HD
+https://ch.iptvmate.net/e98412daf4c3cd71444c75f1c33da842.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/230" tvg-id="4504e02126bcb3605a52ccb8f123aa2c" tvg-chno="539",TOPcrime
+https://ch.iptvmate.net/fb85d7aad513e6e39046fe9f33d0d882.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/269" tvg-id="bf7778bda624d07cf7055501d80d1c13" tvg-chno="551",TGCOM24
+https://ch.iptvmate.net/a83214a05ecdddac785e163832681248.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/334" tvg-id="3a74b7ef95c81d1063557922ab1db91e" tvg-chno="553",ITALIA 53
+https://ch.iptvmate.net/28e29b0e079699ff325d8f250ad78c79.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/322" tvg-id="94ecdee5adf9f20b70c9b2968a024f61" tvg-chno="603",Super J
+https://ch.iptvmate.net/d22ae53f8f884e667f6210330b49ef19.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/244" tvg-id="4eda24a7723e176879a3cf5dffff4140" tvg-chno="605",EMME TV +
+https://ch.iptvmate.net/59017d5e9914a130b12003d9d415354a.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/247" tvg-id="e2441429b214f32641ad96a6d6516fca" tvg-chno="606",RMM tv-Radio Marche nel Mondo
+https://ch.iptvmate.net/3523981efb228ffa25d41d8f492e6e54.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/329" tvg-id="4f06806a7b19be72694b34f75aee1c6b" tvg-chno="607",PRIMA FILA
+https://ch.iptvmate.net/51bfb9e7f1dfacdb3e0d4490982c0c0f.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/347" tvg-id="bf90cef916052e1487a61a0760c2904e" tvg-chno="633",Rossini TV
+https://ch.iptvmate.net/a40e5ad2afc2d8472ddec1984711b63e.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/281" tvg-id="7c3cea47bc9c3523903a5946ff58fb2b" tvg-chno="707",R Italia SMI
+https://ch.iptvmate.net/09bb4160a7bfc5f64b5d02a0e3205a6d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/252" tvg-id="1a8f1dacf2b45ee0f56a69143c3d116b" tvg-chno="713",Radio Capital
+https://ch.iptvmate.net/abe7f17b9bcb30148ae1de7737378f1b.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/316" tvg-id="894187e2288bc34e572ee0297865c325" tvg-chno="714",Radio Deejay
+https://ch.iptvmate.net/b078a7b7a409a345e8590f99fcfb6efb.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/335" tvg-id="9062d26f3bdd44d04247feed3585cbe9" tvg-chno="715",Radio m2o
+https://ch.iptvmate.net/a18e70c5472afd8f2d47d3536cd04d0d.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/355" tvg-id="f393037f9eeef62d0302452903f209b5" tvg-chno="717",RadioItaliaRap
+https://ch.iptvmate.net/da4082cda012b67f44c643c5a52177b3.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/211" tvg-id="d8ba68927554daf1b879b5590844cabf" tvg-chno="733",RADIO VATICANA ITALIA
+https://ch.iptvmate.net/efbf90508841e7455a7ce37170642e09.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/338" tvg-id="37a849f38b3a668a8bd567e88fb63180" tvg-chno="737",RTL1025radioDOC
+https://ch.iptvmate.net/02b2eece86a1b1b2e59427930edc3554.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/294" tvg-id="f7507acf8e5abf0df5c450dae83d879a" tvg-chno="740",RADIO PADANIA
+https://ch.iptvmate.net/d61e45e6c1ec27c97474c23221266ef4.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/330" tvg-id="cc26416b925333bfa7c1434d106c6a00" tvg-chno="758",FRECCIA
+https://ch.iptvmate.net/7ffc6d00f9ac31bbc0b6d2648f1f597c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/256" tvg-id="a3bda33092683ad2e741fb56d457ca37" tvg-chno="789",Radio Maria
+https://ch.iptvmate.net/eb4c15d64a3987ffe73ba01aa15e3d2c.m3u8
+#EXTINF:-1 logo="http://93.46.122.186:9981/imagecache/297" tvg-id="bcaba8512eca6c430046c73133e634ad" tvg-chno="807",LA7 on demand
+https://ch.iptvmate.net/fd880e3c90d7c91d07dee179bc0c9a8f.m3u8

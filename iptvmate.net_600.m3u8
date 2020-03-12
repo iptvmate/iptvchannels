@@ -1,0 +1,293 @@
+#EXTM3U
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/c046e6da16e9fa2a795cbc2e882031dc.png",TF1 FULL HD
+https://ch.iptvmate.net/f9a6809cb4b416872020790540c4f0c2.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/2575761c5982212955ef48ab471aeafd.png",M6 FULL HD
+https://ch.iptvmate.net/2247950091d825ec053c7495710617ee.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/4cc8eb082bbd619066c79f64216c7878.png",TF1 HD
+https://ch.iptvmate.net/10e0ec6ad1270295ea1a8e35138a4a94.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/1b60ed9ec6e5a10b0c2c34740ada019f.png",M6 HD
+https://ch.iptvmate.net/a574b3a1086f7c765855be0014543655.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/68f21e562565aa30c7c1816e8c52d2e4.png",TF1 Serie Film
+https://ch.iptvmate.net/0d3c05b29c6b1784bc6712bf1dc6a1f2.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/9e89a1ffe0161bbf77219ef56e99647d.png",6 Ter HD
+https://ch.iptvmate.net/2ee7ec9e8fcc29c5b6133857e7d47715.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/0df66346a3a0e5228d70618711ff0279.png",France 2 HD
+https://ch.iptvmate.net/7f2ef3e63e879afb83ef0c56eb1552da.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/853b8b156e2ed805fdc4af2cc4c2ca75.png",France 3 HD
+https://ch.iptvmate.net/63c33a49fab0da312d1633d33ea7c492.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/0b237a98fd488435fd0a3a5560604f9b.png",France 4
+https://ch.iptvmate.net/70b0e7001cfcb67484849191c6c1a572.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/8c0411507908124c0c23b2320837ea27.png",France 5
+https://ch.iptvmate.net/0d090c25e9bfe738bca77608e562168c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d2f2dbc8935887ca26b69d8402a95c32.png",France O
+https://ch.iptvmate.net/222e92207259b26a0621013ba7b61a41.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/5831824905071ef9664dfd0352dfd2c0.png",W9 HD
+https://ch.iptvmate.net/60f0df5a423e67e9aa67866f8962998a.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d2dd9e97b27f09e1443ac183552c2a2f.png",Altice Studio HD
+https://ch.iptvmate.net/7fdd6945a61db8045dad73c98f0b1455.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/59a065efe416a32f01688c0214c2307f.png",E. Fr
+https://ch.iptvmate.net/030feff90cd8ba3fa30271eb9de4a71e.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/4fd32fc88e6b96886e2c74bfdb8a952d.png",ELLE Fr.
+https://ch.iptvmate.net/4e74d3c2f6e5a475a43eb587cf04707c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/3f3fd9d7cc0c09b4c4bb1ddcc2638404.png",Non Stop People Fr.
+https://ch.iptvmate.net/8661e0a5ad092c05b2f28be253d26b0b.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/240dee14c689954fb47cd5ef414a0b71.png",OCS Choc HD
+https://ch.iptvmate.net/7f42ed952c1118e8de82177bca604c51.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d78369a7382f40be11abe83c89927387.png",OCS City HD
+https://ch.iptvmate.net/5f571a67eff08acd4db15dbf3c8a35aa.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/6f68fc4ac107657761b4c79a504db9fd.png",OCS Geant HD
+https://ch.iptvmate.net/1195bf32a70d266bb1c529be00476b1e.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/af3eda9449f7247f684b1322d811c288.png",OCS Max HD
+https://ch.iptvmate.net/9324b0aa38c07832f60a7e3c93cb8f25.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/a9da40d68888b6065943dc509ec59a0e.png",Cine + Emotion HD
+https://ch.iptvmate.net/69a05d1338b3bd5f083607aa02c01699.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/b706409c44f5a0055c391a38f269edc5.png",Cine Frisson HD
+https://ch.iptvmate.net/6e50adcce2ccd1e6a5fbee0feae09ce4.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/1ed49afdbc0758bb2ec4f67bd5a99ae0.png",Cine Famiz
+https://ch.iptvmate.net/d8adb3926d62583963bf94bec2b8be7c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/0ba357ed0c35a1e0e942e0f6a67e745f.png",Cine Premiere
+https://ch.iptvmate.net/283cbab5017b7bf9dbf0a899e5e4fbeb.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/4c1013135094f9b6d908809bed815549.png",Canal+
+https://ch.iptvmate.net/9ad0c45981f886a050c663ee77bc9ef0.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/49a00edcf5969d054f3c79102bf05601.png",Canal+ Cinema
+https://ch.iptvmate.net/bf8e990241372af75286d146e0abb613.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/14fce20b669ea3e117acbe00c502bd56.png",Canal+ Family
+https://ch.iptvmate.net/aff841402cd2a62c223e1d5b1682a34b.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/c779c9d7470f910f7380a8428253fe6a.png",Canal+ Sport
+https://ch.iptvmate.net/fc73a50c7ffe95d793ea67df462ecce3.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/ff1fbe4ac15241e68ce352b7c45b33a2.png",Canal+ Decale
+https://ch.iptvmate.net/0539a246c63d1371b10beeecf7714633.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/bf46dae778dcb257c0cecf4ec82ad4d0.png",Canal+ series HD
+https://ch.iptvmate.net/ba33f8a37a98853ba3ba10f1976fde63.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/4a7d2c536c88672a306b6c3032452422.png",TCM FR
+https://ch.iptvmate.net/3a97a0b5da0840ebf9647108e65507e6.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/958f70d42d588e99ce1963a2487d92b7.png",Action HD
+https://ch.iptvmate.net/7504e3d414ae67ec604fd85512c4b320.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/1950d3c82e8743062d082a39bbd87746.png",Paramount ch. FR
+https://ch.iptvmate.net/33f1a44bf8aaf289ecbd1dc43c47026b.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/827688b50cd4d28e64e83cad4e338ce1.png",Polar Plus FR
+https://ch.iptvmate.net/8aec265906673278bd0c6dc6baba9951.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/ba5737652f95229cb5c9c499e7e298dd.png",Warner TV FR
+https://ch.iptvmate.net/9790ce94c38226665cd259fc73de7b0a.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/4027175e6a70cc1f7955fdf74324a34e.png",Serie Club HD
+https://ch.iptvmate.net/5da077926fa522c8b3811a65f7727f2f.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/f67c090a6f544d4638edae9c896b2fb5.png",13 eme Rue
+https://ch.iptvmate.net/456a34666e7f1f6c06486d9bf256301f.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/474a0241d065aeaf4e7726270110dc9b.png",Tv Breizh
+https://ch.iptvmate.net/fa731ccb1155c4ead177ebe0f7ca678a.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/972d0c7eee346c94b7536c279cbed412.png",TF1 HD +4
+https://ch.iptvmate.net/ca8531673124f19d4da10f77e9e585e1.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/8c3989c682028d6b766a90c7c94792bb.png",France 2 HD +4
+https://ch.iptvmate.net/e225274796fc890ae3d4d321507a63c8.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/4c9d20391a41bcc9091d57611d181476.png",M6 HD +4
+https://ch.iptvmate.net/987850ac09b81f3d7b67f72d30fd9d55.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/eef986f8766253f9e5cba02ddb2b9adc.png",W9 HD +4
+https://ch.iptvmate.net/e3c2647ecf2efbfbdc47534a2a4bd5c7.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/b299d41bfdd1730273d617a27d589f86.png",RTL 9
+https://ch.iptvmate.net/b8ef288d5446cfbbb051be53abeef039.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/39755a7df11547566eeac24c1fcbe6cc.png",AB 1
+https://ch.iptvmate.net/14211515fa0778f8e7526a871cbbf9bd.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/dac2fbf00e2d95cc4a49c65e3dee4d75.png",AB 3
+https://ch.iptvmate.net/3c580f01fa3c6c569f862b9f8232b779.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/2e7159e84939c2a446fa687b86e0800e.png",TEVA HD
+https://ch.iptvmate.net/9853c3f766832d79bc2922723e989547.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/870590a4d7ecd3619eebbd3fbfeef2ff.png",Viceland Fr.
+https://ch.iptvmate.net/8a1b3a6f724f1ccfec23cba18912da26.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/ce5bb7b762c5e4c5e25ace2029f226f7.png",Season Fr.
+https://ch.iptvmate.net/58eaf528011c6be24820fcab8c711348.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/f8e312662619ae81028eff7874d251c4.png",Crime District Fr.
+https://ch.iptvmate.net/4786d2add49ce479840da8ee2ee7fab4.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/34fb106fb30d4f74d10a161d4a8be36f.png",My Cuisine TV HD
+https://ch.iptvmate.net/b11c9c9016f9007e25826952a52c8f05.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/5e258bd68bba1e7e5edc5e250eb33291.png",Ushuaia TV HD
+https://ch.iptvmate.net/2fdba6e368b66984c0205c77b276fa35.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/5d254f96587fcf73c740093be2660256.png",NAT GEO HD Fr.
+https://ch.iptvmate.net/ce03abd08e301f90f5c31b7f3df7f328.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/075cff38dc992e1829d8b3578f3fa36b.png",NATGEO WILD HD Fr.
+https://ch.iptvmate.net/9d3013f77bd055b5f26f3f59f8a155a0.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/72f9656735a5249b1b36e11edc55d2a8.png",Planet Plus HD
+https://ch.iptvmate.net/4880ac8785e9ef7dec3b04abfeaa6b5c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/342e691d1c1c05a97b73f44084edf34d.png",Planet Plus AE HD
+https://ch.iptvmate.net/51be3c6fa32821a19e2185c8b71e5124.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/a246dc1e8013202e5c03a326098cf185.png",Planet Plus CI HD
+https://ch.iptvmate.net/79281bd66f39f40851a044e5ad4a633c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d2f25b2f5e0af52db47832f835c874cd.png",Voyage Fr.
+https://ch.iptvmate.net/0a8cfabf3bbd5e118c0e6ea310c7ab49.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/8950fb548af60bf66d6283237da632bf.png",Discovery Family HD Fr.
+https://ch.iptvmate.net/7b5208beecb70fe210b55e53701a8f52.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/919ae10eab062d0787f84663dd8e5967.png",Discovery Science HD Fr.
+https://ch.iptvmate.net/8c73f4e9311f192c3c1a50edd0def04d.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/303561fcc8720cde9b54bc60271dcd77.png",Discovery Show Case Fr.
+https://ch.iptvmate.net/9ffa454d763021abeb51424407f40220.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/b9071880bcf68e1b0903df3f9246b7c1.png",Discovery ID Fr.
+https://ch.iptvmate.net/6b37cf1bfb100ab938abc9ec99197fe0.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/cdd92d91077027935499e5186b5858e9.png",RMC Decouverte
+https://ch.iptvmate.net/6de57c2bce95b0266ee8e4dace157b75.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/f195e1171b222be64e75513e05911539.png",Histoire
+https://ch.iptvmate.net/a6e455096f95ac2fa581076a8d831ace.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/7e2e72e9976c425b99773f419a3ce504.png",RMC Story
+https://ch.iptvmate.net/43a8bd171052c4c7c7e5e3088cbb0041.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/9a3553f6d6a28a1b4e8bc127d515c57d.png",Chasse et Peche
+https://ch.iptvmate.net/eb7756a2e320276d173367398c98474e.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/99cd28f8916ebff492495beffc30f852.png",Trek
+https://ch.iptvmate.net/ee4e4a78549a803c3669a7c6804e4b83.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/3feaea1a2c5f68a459ced869ddeccd8f.png",Sciences et vie
+https://ch.iptvmate.net/2eb7e2b52bcc2b8f56ce9a40d6d5a57e.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/c0dd5fc075bba50a2b4aaec3ff34fbdb.png",Animaux
+https://ch.iptvmate.net/897cefb8c9d33a3c30718905b67ece80.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/87128552f9f8654bc20d156e3f2e3274.png",Comedie
+https://ch.iptvmate.net/3ac597f4a773231733059c2815b07a9a.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/e0c291423435f848dd8c1d458b17402a.png",C-8
+https://ch.iptvmate.net/b9783ef99e1a72bb3fe26e856b316f3a.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/f6497339ea87b4743f7184360bfd1e99.png",NRJ 12
+https://ch.iptvmate.net/58261f75884e3c16c1c76cab61c345e7.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/8a78e8e6187291c2e433dc8e725eaebe.png",C-Star
+https://ch.iptvmate.net/5624e4449f52b31e143ee4f54ab7a943.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/e9927f883d7abb4ca5cddefba8464627.png",Equipe 21
+https://ch.iptvmate.net/ba284fdad9d6e040c2b67f03ac46db85.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/8c7abcb2ccb5b46757a6a87bc6e90f74.png",Cherie 25
+https://ch.iptvmate.net/c48415e63482ea8fbe52094095988d5d.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d58836f5b083f0e7e5930873e48faed9.png",SYFY HD
+https://ch.iptvmate.net/1b2153f08c49db71dcd06bd802df5729.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/0d8522b77a10b554226eb682d62350c7.png",NT 1
+https://ch.iptvmate.net/5f81a0d81b0601b553b3b4a0e9547bec.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/1ecf5eb038874d66e7b33c8731cc477b.png",TMC
+https://ch.iptvmate.net/9d60921411469c8c3c273826c6818aa1.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/2cbd429066e4580c2075cf85750b65df.png",Paris Premiere
+https://ch.iptvmate.net/69fdf5b5a606d70096f67499fb04277c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/545e66a682266850998b45deb01a67b3.png",ARTE
+https://ch.iptvmate.net/27d3384fc484d046c01ec71d8f83d2d5.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/04aa1ccb395bfb703382db7ad927cdf6.png",France Info
+https://ch.iptvmate.net/1bf3dd03ad59b7e0ba067d3eb95ebc4b.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/653ac1ea981c4ea213a1c9eaaa8a7816.png",C-News
+https://ch.iptvmate.net/ad6e6a631e162b3f99608b98df847a60.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/b56c58b24ca3add7d64903094e647bd4.png",I24 Fr.
+https://ch.iptvmate.net/72313c181276ea10aa8404543c0d4973.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d143e32b76f1400e195cd0a8d8b7df3d.png",LCI
+https://ch.iptvmate.net/c4912c336c3a03cdf79122dbe1a6db27.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/4ba6aa3f9b0ba4f510b37c728b9554ca.png",BFM TV
+https://ch.iptvmate.net/00f22f33faeb18f254b423575ab51fec.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/ac73e39bee72f99cd13daa7ef984a940.png",BFM Paris
+https://ch.iptvmate.net/c52fec5496da5dee0162d11a397a55b6.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/45bc29fa6bb97399c9e513e81c9c059f.png",BFM Business
+https://ch.iptvmate.net/f20a4f56a19af9deb221eeaf7f79d55f.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/57492cbc045581313991a920cdb21835.png",LCP
+https://ch.iptvmate.net/3d6be7507f3c5fc596741ed8a85d9c45.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/edfce3e56b874335b7fc233af6d0d4ab.png",Mezzo Fr.
+https://ch.iptvmate.net/e4d6061d1b1c3f081fa3ac473f64350f.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/0d8fcefb43dca1173f3fd63f14290ef6.png",RFM Fr.
+https://ch.iptvmate.net/7e058f3168115e95f4f183a251902320.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/68293130e613c043d5a0f552bcec36c4.png",MCM Top
+https://ch.iptvmate.net/dcbda47995874177a48dfd87bd126e24.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/6fa0621b3670b5ec744fca100afdb1f2.png",Melody Fr.
+https://ch.iptvmate.net/7b31d0be8555f8d09b5756e88de0c385.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/36f14d025d7803cb5494b56123a369d9.png",MTV FR
+https://ch.iptvmate.net/e911112607eb0ff7ed1f75f755f16600.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/c4568a09abdea781e8ed249d6bd60a0f.png",MTV Hits
+https://ch.iptvmate.net/d67ef3bafba8b09b8b3b1f16abc51007.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/9d5f6bcbc29e47a383f31ccd3a51974f.png",Piwi Fr.
+https://ch.iptvmate.net/3a853d8f9f08ac76244fed844677b191.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/7f43aa84e2fad429e00727371681a51a.png",Toonami
+https://ch.iptvmate.net/a1649d0da4b3324b0924f5ddc35f6938.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/a99af63852bd8143592904c04ed91f74.png",Game one
+https://ch.iptvmate.net/f2f796f4d0af5d0c6e9e4ed7883c462e.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/c15faa3be0a6ff9f401c7a0dc2b8584e.png",Boomerang FR
+https://ch.iptvmate.net/9ccb2a4666a9f1c9412202fc14d92b3c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/38d2dab64a3969bb3e3f63631d4c6e03.png",Boing FR
+https://ch.iptvmate.net/6d94ea2a5980dfdfbfda4e5d12a07e98.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/b2736d722e658770b1b1e64002327505.png",Tiji FR
+https://ch.iptvmate.net/ac8acddfa57b3aeac84c22925288d6e2.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d96f2755f07708405c414435730e26de.png",Canal J
+https://ch.iptvmate.net/498a3a61d69b7e9cb3f31808e92eeb39.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/917286c65ce374db4b512062d2f0fe93.png",Mangas
+https://ch.iptvmate.net/dc650f46ffd771a9fc5d2ceaa5440f6f.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/f2e98caf6b857ebc97e721fb8ef3979c.png",Cartoon Network
+https://ch.iptvmate.net/cbf20c5dcc8734ffb3201a3a0a3e4472.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/a88cc581b5c91e52290748932c107d11.png",Gulli
+https://ch.iptvmate.net/5928ec7a9c695dd85812e3357eb34959.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/045e8b3913fd06ede9eaa93994b5ddda.png",Teletoon
+https://ch.iptvmate.net/0f7a130202f2061fa86ff3da8357d878.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/9a778bbddae08e9c2fdbc060e4d54e98.png",Disney Ch. FR
+https://ch.iptvmate.net/1d79eaabf054db8c61d9b832b930f3ed.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/3ba56b54a0d63d940c224171a8cfba81.png",Disney Cinemagic FR
+https://ch.iptvmate.net/b2b9db58122853724c92b5621454e234.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/73e4c25cd5bd77c959ab982f27f1ba94.png",Disney Junior FR
+https://ch.iptvmate.net/fc4531a4170c9e7b65c227852d97aced.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/bd47157a1e51ea0abe18c65fe4775a0b.png",Disney XD FR
+https://ch.iptvmate.net/0a356b4fd58ed56cc2dd66a3fd43accc.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/33e573eb47080ce53703e2e30ed09372.png",Nickelodeon Jr. FR
+https://ch.iptvmate.net/059285212d1c7c652475cffc28759ea1.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/71ed56cd50eb8cc8a45abcb18b79a923.png",Nickelodeon FR
+https://ch.iptvmate.net/7b6c0fec38c87184aa9641368e0f31a6.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/1d1fdb1e756095a0141634c1141c8a63.png",Bet Fr.
+https://ch.iptvmate.net/7e9cb7db8807b0c3c68f2f2e75a2926a.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/0a4dd6b034925ac308657848e6b5d4ca.png",Equidia Live
+https://ch.iptvmate.net/c1a437e7312449bd69fa20781b78ee8b.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/2195b8894a91a890c65115ca9b4d866e.png",AB Moteur
+https://ch.iptvmate.net/708e596b1c67a0227f46fde8b99d5083.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/d6a00eb5f3c31ed4da08633e0f54a607.png",Golf Plus FR
+https://ch.iptvmate.net/c1cfcbc6d01ebf52b280af1585eb89e0.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/58c7909b3ce7d4de3d9de56cdcd48dc3.png",Golf Channel FR
+https://ch.iptvmate.net/f18289c04ee622042e9c1ff7f9a213ab.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/22aaa9212ccca27fb038cc251842fa12.png",EuroSport 1 HD
+https://ch.iptvmate.net/efa340770b3b37241b8855ad815e50fb.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/2cde0459bd77fbf2c1028813295c4dd2.png",EuroSport 2 HD
+https://ch.iptvmate.net/862341f24131f718cef258b02813efa6.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/e2bbf6b570853198551baafb128d21db.png",Foot Plus
+https://ch.iptvmate.net/8bbef36308a3d15989efd78a970874bf.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/726e47aea4477421e510ab6dab0b9975.png",Infosport HD
+https://ch.iptvmate.net/f60321dbb9e960290b2d9404e4c8a817.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/61144e29c9f271cae9f6a35d61f77bed.png",BFM Sport HD
+https://ch.iptvmate.net/6ed724ff7d9712e1dff43f2253ccd589.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/3a51b4a47474d76bf91f65d21aee97ae.png",Eleven Sport 1 Fr.
+https://ch.iptvmate.net/18a95ad188f9a2f466b415d69ce61e7f.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/e2daba9bf3985fe930f478ecc5a0a8c5.png",Eleven Sport 2 Fr.
+https://ch.iptvmate.net/c8d54e37d108395f6ba6aae7b6bf8562.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/a17e105bc6abdc0553e6075424012c4c.png",RMC Sport 1 HD
+https://ch.iptvmate.net/3bb846078dcd2d822a5f474e4bf985b5.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/e3c7c888496d43dfabf12dd09635e5fc.png",RMC Sport 2 HD
+https://ch.iptvmate.net/57a1a8d72d9caaf0440f8cf95d64bdfe.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/112f3e70cd7d3063f4e14698263b80d8.png",RMC Sport 3 HD
+https://ch.iptvmate.net/2dd5a05fe51463ce2c2989bcb512c197.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/16b700305a79634aca7567d7dbac2eb7.png",RMC Sport 4 HD
+https://ch.iptvmate.net/42a1b25646d4be355dd723d2294339ec.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/6e7a973e9c4e4476e731045f2c89e11e.png",BeInSport 1 FR
+https://ch.iptvmate.net/f1edefdf585f96e9dad4eee00c256c82.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/6edc2c9ee79a3145f46cfcec0519118a.png",BeInSport 2 FR
+https://ch.iptvmate.net/6a62009ecef9d45b9f2a7aeb50bbdbf7.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/9240d1a46484be04eec2d5d2b2f418f2.png",BeInSport 3 FR
+https://ch.iptvmate.net/b0ab2a21a57d63590a5de4986afcd8a0.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/2e79cbe4be421d1e62c94572e8278582.png",BeInSport Max 4
+https://ch.iptvmate.net/fc2373f23a07379bbd8597f3c13bce93.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/1a346dfd83a07fad7183cd8001c639d4.png",BeInSport Max 5
+https://ch.iptvmate.net/f488f0d5b429753b925c6b188cc5a827.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/b0ae0f2106cbe1b53f5628e195f972d2.png",BeInSport Max 6
+https://ch.iptvmate.net/0ea1d130c6f8d49adc4910020019a9a2.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/76017848c1a58cedc2c947e6c1d9aed7.png",BeInSport Max 7
+https://ch.iptvmate.net/40cc0cb1608e3227b9aef18d3876ad1c.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/8764449dd785fe3f2e921e6a049b4c23.png",BeInSport Max 8
+https://ch.iptvmate.net/9bca0f57e5d0dd0ecaf6199d56dd4a74.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/6e24c9f4d93036475d62f2268d58879d.png",BeInSport Max 9
+https://ch.iptvmate.net/731f5ce18c93c037ba7804c3f1b52946.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/85fdb9f76adaa091d516803fedaa1cf4.png",BeInSport Max 10
+https://ch.iptvmate.net/d2db56751caf71da078d05ce6e77b432.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/c5fbde6c8486117251314ce74b84f8c7.png",A LA Carte 1
+https://ch.iptvmate.net/f6b135ddef1e9d6fed56895b1a6284c3.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/6f5ec25fde4c12dffbae45ad248adb62.png",A LA Carte 2
+https://ch.iptvmate.net/5471079072fc7316b0c2d817211a8076.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/a1d29a92f8250a4a7fee35a658f37df5.png",A LA Carte 3
+https://ch.iptvmate.net/6a869f548929596d986fb44e0bc094fe.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/905d606b1225613f5180f0b89329a1ae.png",A LA Carte 4
+https://ch.iptvmate.net/b2e04e64cf1e061c09a7cb3bc40f08a6.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/87da662df5b5d3fa4b7b4a8bdfd3b8a1.png",A LA Carte 5
+https://ch.iptvmate.net/62df80593ed7f73ef9fc270ef35b77f9.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/6041f451c659c9ecdf82afd9bb12ae69.png",A LA Carte 6
+https://ch.iptvmate.net/f4bd530614f9a68947e18f2169dccae0.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/9ecc0e7bf0c6102a30a82a689f91b61e.png",A LA Carte 7
+https://ch.iptvmate.net/96f7f03439b9da0d0cf33fcdc82f1fe7.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/ae2a63df9bf992e9264d502aa5de57d8.png",A LA Carte 8
+https://ch.iptvmate.net/ceec93bd47f4b9747fac35d7b9a44c60.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/adb9775144ee94c64f05b92a986fd3a6.png",A LA Carte 9
+https://ch.iptvmate.net/c4c8abcc64161eae89ab16ac71c04cf4.m3u8
+#EXTINF:0 group-title="Canal sat"tvg-logo="https://img.iptvmate.net/07ecdbc7f90b9914c3c334f7fc3e46bc.png",A LA Carte 10
+https://ch.iptvmate.net/0a51b9e242e9c692d1b5334a70344150.m3u8

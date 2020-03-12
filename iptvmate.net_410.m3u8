@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:-1,TF1 HD
+https://ch.iptvmate.net/d5a0b70983fab4ecdf0a4243788c3b16.m3u8
+#EXTINF:-1,EQUIPE21
+https://ch.iptvmate.net/78fa3d7fe66f910ce96c2436c22a2d93.m3u8
+#EXTINF:-1,|FR| TF1 SD
+https://ch.iptvmate.net/b51605d1007c456a3632cb8216fa5dea.m3u8
+#EXTINF:-1,|FR| FRANCE 3 SD
+https://ch.iptvmate.net/b3fcf2fb0c7a4c20349c26409278d387.m3u8
+#EXTINF:-1,|FR| FRANCE 3 HD
+https://ch.iptvmate.net/81b1115be9046a2bff52deec33514970.m3u8
+#EXTINF:-1,TMC HD
+https://ch.iptvmate.net/cd715bb3e0cab158bf5b8c13ab1cc4f4.m3u8
+#EXTINF:-1,TF1 FHD
+https://ch.iptvmate.net/e81024d790658b1e82b8407b1c51c0ae.m3u8
+#EXTINF:-1,|FR| FRANCE 3 FHD
+https://ch.iptvmate.net/4133ea662ad181be68143f126c408a03.m3u8
+#EXTINF:-1,M6 SD
+https://ch.iptvmate.net/fa402067fd97fcccf02406009a9816c6.m3u8
+#EXTINF:-1,M6 HD
+https://ch.iptvmate.net/e7c81c3a80445a082f3981be4b62b34d.m3u8
+#EXTINF:-1,M6 FHD
+https://ch.iptvmate.net/5d6a5835773055a1e9e35d8a88f5e136.m3u8
+#EXTINF:-1,TMC SD
+https://ch.iptvmate.net/4ce2d69f063a80208be4ad8c1bd11948.m3u8
+#EXTINF:-1,TMC FHD
+https://ch.iptvmate.net/6ac6c29bdab2594a2040836f0a247c96.m3u8
+#EXTINF:-1,W9 HD
+https://ch.iptvmate.net/d131bbc3d1a17c4da7ff64e62ac3185d.m3u8
+#EXTINF:-1,W9 FHD
+https://ch.iptvmate.net/306eef4fd77db601362ccf5e89e70eb4.m3u8
+
+#EXTINF:-1,FR:W9
+https://ch.iptvmate.net/91eb08f085042c310c7ed2bb4e87d1d6.m3u8
+#EXTINF:-1,FR:Ushuaia_HD
+https://ch.iptvmate.net/1f584c3ffa4aa46c78855a2864fc2062.m3u8
+#EXTINF:-1,FR:Tout_LHistoire
+https://ch.iptvmate.net/a112a5538d462b59e3228400c3587521.m3u8
+#EXTINF:-1,FR:TIJI
+https://ch.iptvmate.net/bab7624386061339d857c399a2b522f0.m3u8
+#EXTINF:-1,FR:TF1
+https://ch.iptvmate.net/0ff9f2dd601bd550ea4570a5334eefd9.m3u8
+#EXTINF:-1,FR:Disney_Junior
+https://ch.iptvmate.net/7efe158b99f76c21eeac23df768f6d95.m3u8
+#EXTINF:-1,FR:RTL9
+https://ch.iptvmate.net/06061be05b3c80f3d95e3842043d5bb4.m3u8
+#EXTINF:-1,FR:Planete
+https://ch.iptvmate.net/df23ad7b89f85293c0a888ff25820570.m3u8
+#EXTINF:-1,FR:PIWI
+https://ch.iptvmate.net/164463fe2f57401c6c088b6883e368c3.m3u8
+#EXTINF:-1,FR:NRJ12
+https://ch.iptvmate.net/0caeb223d3d737dedf69c92b566de508.m3u8
+#EXTINF:-1,FR:Nat_Geo
+https://ch.iptvmate.net/a41bdb8c57952ee992fdb960e90fdd31.m3u8
+#EXTINF:-1,FR:M6
+https://ch.iptvmate.net/55b27993443eb7562c1bfcbb66c3b7b9.m3u8
+#EXTINF:-1,FR:Infosport
+https://ch.iptvmate.net/47371ca6ba808ec5147c69e4eb2d677b.m3u8
+#EXTINF:-1,FR:GULLI
+https://ch.iptvmate.net/536a92890aa0694b0024d2c2f84ecba5.m3u8
+#EXTINF:-1,FR:France_5
+https://ch.iptvmate.net/15265cc0cba669c6b69e300b9aca4409.m3u8
+#EXTINF:-1,FR:France_2
+https://ch.iptvmate.net/4fa12146e3120fc971bd57fb84525d6c.m3u8
+#EXTINF:-1,FR:Disney
+https://ch.iptvmate.net/497046e55b9e3783f927ee45f9e59e7a.m3u8
+#EXTINF:-1,FR:CINE_POLAR
+https://ch.iptvmate.net/37d0a5a846bab8af901a6f8bae149614.m3u8
+#EXTINF:-1,FR:CINE_CLASSIC
+https://ch.iptvmate.net/2c6df637c7a166c5671ad8bedff8efc2.m3u8
+#EXTINF:-1,FR:CINE_FAMIZ
+https://ch.iptvmate.net/1f123ce59713bcfadb0d40b399a8e30a.m3u8
+#EXTINF:-1,FR:Chasse_Et_Peche
+https://ch.iptvmate.net/1a9979800892e8b3c574f4df17e44df0.m3u8
+#EXTINF:-1,FR:Discovery
+https://ch.iptvmate.net/0eb78e7c0a717e4099899e13b7367e35.m3u8
+#EXTINF:-1,FR:Canal_J
+https://ch.iptvmate.net/fc286ebca40d6e5257fe62eb3d4aed18.m3u8
+#EXTINF:-1,FR:CANAL_SPORT_HD
+https://ch.iptvmate.net/2481c66516cd5c055e25de6c0e07a81a.m3u8
+#EXTINF:-1,FR:CANAL_HD
+https://ch.iptvmate.net/a30c6bbaca39f2788939bb9d4e8350af.m3u8
+#EXTINF:-1,FR:CANAL_DECALE_HD
+https://ch.iptvmate.net/2a5deff189f96b81af349ee0d4ab4df9.m3u8
+#EXTINF:-1,FR:Animaux_hd
+https://ch.iptvmate.net/2bbda67734b7961a575084de5aa9f197.m3u8
+#EXTINF:-1,FR:Action
+https://ch.iptvmate.net/ca0e96559ba456cb90a7c29ed85c66f9.m3u8
+
+#EXTINF:-1,RMC SPORTS 3 SD
+https://ch.iptvmate.net/7a91770d7070eabc9bd7d21310202e98.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+https://ch.iptvmate.net/5491134cd4294b83fdf68c7e4dbd6a00.m3u8
+#EXTINF:-1,RMC SPORTS 3 FHD
+https://ch.iptvmate.net/3b3d0d8042d84b4f1c7de4acb62411aa.m3u8
+
+#EXTINF:-1,RMC SPORT 5 HD
+https://ch.iptvmate.net/188e9c10829f501234b19b4743a2eac4.m3u8
+#EXTINF:-1,RMC SPORT 5 FHD
+https://ch.iptvmate.net/70a242fc2051661466596c51c6299e5a.m3u8
